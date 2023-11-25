@@ -36,7 +36,7 @@ To run the code, you need to have Python installed on your machine along with th
 pip install numpy pandas seaborn matplotlib scikit-learn
 ```
 
-After installing the dependencies, you can run the `fifa_world_cup_prediction.py` script to execute the entire pipeline.
+After installing the dependencies, you can run the `model.ipynb` script to execute the entire pipeline.
 
 ## Exploring the Data
 
